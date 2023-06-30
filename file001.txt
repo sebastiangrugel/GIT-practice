@@ -1,2 +1,1 @@
-Ver 0.6
-additional line :)
+Ver 0.4
